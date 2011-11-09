@@ -6,6 +6,9 @@
  *
  * by eljeko
  *
+ * Twitter: http://twitter.com/eljeko
+ * Linkedin: http://www.linkedin.com/in/linguerri
+ *
  * Lua brush for SyntaxHighlighter: http://alexgorbatchev.com/SyntaxHighlighter/
  *
  */
