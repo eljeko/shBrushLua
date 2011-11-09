@@ -12,7 +12,7 @@
 
 dp.sh.Brushes.Lua = function() {
     var functions = 'math\\.\\w+ string\\.\\w+ os\\.\\w+ debug\\.\\w+ io\\.\\w+ error fopen dofile coroutine\\.\\w+ arg ipairs getmetatable loadfile longjmp loadstring rawget print seek rawset assert setmetatable tostring tonumber loadlib';
-	var keywords =	'do break end elseif else this function if local nil or not return repeat and until then while';
+    var keywords =	'do break end elseif else this function if local nil or not return repeat and until then while';
 
     this.regexList = [
         { regex: new RegExp(this.GetKeywords(functions), 'gm'),                 css: 'func'     },
