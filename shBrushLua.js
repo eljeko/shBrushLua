@@ -10,7 +10,11 @@
  * Linkedin: http://www.linkedin.com/in/linguerri
  *
  * Lua brush for SyntaxHighlighter: http://alexgorbatchev.com/SyntaxHighlighter/
+ * 
+ * original version by bear.mini (available at: http://www.undermyhat.org/blog/2009/09/list-of-brushes-syntaxhighligher)
  *
+ * License under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
+ * 
  */
 
 dp.sh.Brushes.Lua = function() {
