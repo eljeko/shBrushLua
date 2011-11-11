@@ -1,6 +1,6 @@
 /*
  *
- * shBrushLua.js
+ * shBrushLua.js (v. 0.1)
  *
  * https://github.com/eljeko/shBrushLua
  *
